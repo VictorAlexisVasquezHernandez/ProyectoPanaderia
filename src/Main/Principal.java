@@ -22,9 +22,7 @@ public class Principal {
 		Panes pan = null;
 		LogicaMetodos imp = new LogicaMetodos();
 
-		System.out.println("Marca de agua, ola de mar");
-		float operacion = 3.1416f * 5;
-		System.out.println(operacion);
+
 
 		do {
 			System.out.println("MENU PRINCIPAL DE PANADERIA");
